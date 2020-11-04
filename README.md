@@ -1,0 +1,2 @@
+# object_and_text_extraction_using_AWS
+Cloud Computing Assignment
